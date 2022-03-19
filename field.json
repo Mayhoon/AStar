@@ -3,644 +3,68 @@
     "x": 0,
     "y": 0,
     "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 240,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 400,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 0,
-    "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 0,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 240,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 400,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 80,
-    "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 0,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 240,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 400,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 160,
-    "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 0,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 240,
-    "hCost": 4,
-    "type": 6,
-    "fCost": 52,
-    "gCost": 3
-  },
-  {
-    "x": 240,
-    "y": 320,
-    "hCost": 3,
-    "type": 6,
-    "fCost": 42,
-    "gCost": 3
-  },
-  {
-    "x": 240,
-    "y": 400,
-    "hCost": 2,
-    "type": 6,
-    "fCost": 38,
-    "gCost": 3
-  },
-  {
-    "x": 240,
-    "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 240,
-    "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 0,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 240,
-    "hCost": 4,
-    "type": 6,
-    "fCost": 48,
-    "gCost": 2
-  },
-  {
-    "x": 320,
-    "y": 320,
-    "hCost": 0,
-    "type": 1,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 400,
-    "hCost": 2,
-    "type": 6,
-    "fCost": 28,
-    "gCost": 2
-  },
-  {
-    "x": 320,
-    "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 320,
-    "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 0,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 240,
-    "hCost": 4,
-    "type": 6,
-    "fCost": 44,
-    "gCost": 1
-  },
-  {
-    "x": 400,
-    "y": 320,
-    "hCost": 3,
-    "type": 6,
-    "fCost": 34,
-    "gCost": 1
-  },
-  {
-    "x": 400,
-    "y": 400,
-    "hCost": 2,
-    "type": 6,
-    "fCost": 24,
-    "gCost": 1
-  },
-  {
-    "x": 400,
-    "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 400,
-    "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 0,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 240,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 400,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
-  },
-  {
-    "x": 480,
-    "y": 560,
-    "hCost": 0,
     "type": 4,
     "fCost": 0,
     "gCost": 0
   },
   {
-    "x": 480,
+    "x": 0,
+    "y": 80,
+    "hCost": 10,
+    "type": 6,
+    "fCost": 340,
+    "gCost": 330
+  },
+  {
+    "x": 0,
+    "y": 160,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 0,
+    "y": 240,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 0,
+    "y": 320,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 0,
+    "y": 400,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 0,
+    "y": 480,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 0,
+    "y": 560,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 0,
     "y": 640,
     "hCost": 0,
     "type": 0,
@@ -648,7 +72,7 @@
     "gCost": 0
   },
   {
-    "x": 480,
+    "x": 0,
     "y": 720,
     "hCost": 0,
     "type": 0,
@@ -656,7 +80,7 @@
     "gCost": 0
   },
   {
-    "x": 480,
+    "x": 0,
     "y": 800,
     "hCost": 0,
     "type": 0,
@@ -664,12 +88,588 @@
     "gCost": 0
   },
   {
-    "x": 480,
+    "x": 0,
     "y": 880,
     "hCost": 0,
     "type": 0,
     "fCost": 0,
     "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 0,
+    "hCost": 10,
+    "type": 2,
+    "fCost": 326,
+    "gCost": 316
+  },
+  {
+    "x": 80,
+    "y": 80,
+    "hCost": 14,
+    "type": 6,
+    "fCost": 340,
+    "gCost": 326
+  },
+  {
+    "x": 80,
+    "y": 160,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 240,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 320,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 400,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 480,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 560,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 640,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 720,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 800,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 80,
+    "y": 880,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 0,
+    "hCost": 20,
+    "type": 2,
+    "fCost": 346,
+    "gCost": 326
+  },
+  {
+    "x": 160,
+    "y": 80,
+    "hCost": 24,
+    "type": 6,
+    "fCost": 354,
+    "gCost": 330
+  },
+  {
+    "x": 160,
+    "y": 160,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 240,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 320,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 400,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 480,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 560,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 640,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 720,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 800,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 160,
+    "y": 880,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 0,
+    "hCost": 30,
+    "type": 2,
+    "fCost": 346,
+    "gCost": 316
+  },
+  {
+    "x": 240,
+    "y": 80,
+    "hCost": 34,
+    "type": 6,
+    "fCost": 354,
+    "gCost": 320
+  },
+  {
+    "x": 240,
+    "y": 160,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 240,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 320,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 400,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 480,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 560,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 640,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 720,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 800,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 240,
+    "y": 880,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 0,
+    "hCost": 40,
+    "type": 2,
+    "fCost": 346,
+    "gCost": 306
+  },
+  {
+    "x": 320,
+    "y": 80,
+    "hCost": 44,
+    "type": 6,
+    "fCost": 354,
+    "gCost": 310
+  },
+  {
+    "x": 320,
+    "y": 160,
+    "hCost": 48,
+    "type": 6,
+    "fCost": 334,
+    "gCost": 286
+  },
+  {
+    "x": 320,
+    "y": 240,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 320,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 400,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 480,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 560,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 640,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 720,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 320,
+    "y": 800,
+    "hCost": 116,
+    "type": 2,
+    "fCost": 252,
+    "gCost": 136
+  },
+  {
+    "x": 320,
+    "y": 880,
+    "hCost": 126,
+    "type": 2,
+    "fCost": 258,
+    "gCost": 132
+  },
+  {
+    "x": 400,
+    "y": 0,
+    "hCost": 50,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 296
+  },
+  {
+    "x": 400,
+    "y": 80,
+    "hCost": 54,
+    "type": 2,
+    "fCost": 354,
+    "gCost": 300
+  },
+  {
+    "x": 400,
+    "y": 160,
+    "hCost": 58,
+    "type": 6,
+    "fCost": 340,
+    "gCost": 282
+  },
+  {
+    "x": 400,
+    "y": 240,
+    "hCost": 62,
+    "type": 6,
+    "fCost": 334,
+    "gCost": 272
+  },
+  {
+    "x": 400,
+    "y": 320,
+    "hCost": 0,
+    "type": 0,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 400,
+    "y": 400,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 400,
+    "y": 480,
+    "hCost": 80,
+    "type": 2,
+    "fCost": 144,
+    "gCost": 64
+  },
+  {
+    "x": 400,
+    "y": 560,
+    "hCost": 90,
+    "type": 2,
+    "fCost": 164,
+    "gCost": 74
+  },
+  {
+    "x": 400,
+    "y": 640,
+    "hCost": 100,
+    "type": 2,
+    "fCost": 184,
+    "gCost": 84
+  },
+  {
+    "x": 400,
+    "y": 720,
+    "hCost": 110,
+    "type": 2,
+    "fCost": 218,
+    "gCost": 108
+  },
+  {
+    "x": 400,
+    "y": 800,
+    "hCost": 120,
+    "type": 2,
+    "fCost": 266,
+    "gCost": 146
+  },
+  {
+    "x": 400,
+    "y": 880,
+    "hCost": 130,
+    "type": 2,
+    "fCost": 272,
+    "gCost": 142
+  },
+  {
+    "x": 480,
+    "y": 0,
+    "hCost": 60,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 286
+  },
+  {
+    "x": 480,
+    "y": 80,
+    "hCost": 64,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 282
+  },
+  {
+    "x": 480,
+    "y": 160,
+    "hCost": 68,
+    "type": 2,
+    "fCost": 354,
+    "gCost": 286
+  },
+  {
+    "x": 480,
+    "y": 240,
+    "hCost": 72,
+    "type": 6,
+    "fCost": 340,
+    "gCost": 268
+  },
+  {
+    "x": 480,
+    "y": 320,
+    "hCost": 76,
+    "type": 6,
+    "fCost": 334,
+    "gCost": 258
+  },
+  {
+    "x": 480,
+    "y": 400,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 480,
+    "y": 480,
+    "hCost": 84,
+    "type": 2,
+    "fCost": 138,
+    "gCost": 54
+  },
+  {
+    "x": 480,
+    "y": 560,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 480,
+    "y": 640,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 480,
+    "y": 720,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 480,
+    "y": 800,
+    "hCost": 0,
+    "type": 3,
+    "fCost": 0,
+    "gCost": 0
+  },
+  {
+    "x": 480,
+    "y": 880,
+    "hCost": 134,
+    "type": 2,
+    "fCost": 286,
+    "gCost": 152
   },
   {
     "x": 560,
@@ -682,90 +682,90 @@
   {
     "x": 560,
     "y": 80,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 74,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 272
   },
   {
     "x": 560,
     "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 78,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 268
   },
   {
     "x": 560,
     "y": 240,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 82,
+    "type": 2,
+    "fCost": 354,
+    "gCost": 272
   },
   {
     "x": 560,
     "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 86,
+    "type": 6,
+    "fCost": 340,
+    "gCost": 254
   },
   {
     "x": 560,
     "y": 400,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
   {
     "x": 560,
     "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 94,
+    "type": 2,
+    "fCost": 138,
+    "gCost": 44
   },
   {
     "x": 560,
     "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 98,
+    "type": 2,
+    "fCost": 152,
+    "gCost": 54
   },
   {
     "x": 560,
     "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 108,
+    "type": 2,
+    "fCost": 438,
+    "gCost": 330
   },
   {
     "x": 560,
     "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 118,
+    "type": 2,
+    "fCost": 138,
+    "gCost": 20
   },
   {
     "x": 560,
     "y": 800,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
   {
     "x": 560,
     "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 138,
+    "type": 2,
+    "fCost": 300,
+    "gCost": 162
   },
   {
     "x": 640,
@@ -786,32 +786,32 @@
   {
     "x": 640,
     "y": 160,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 88,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 258
   },
   {
     "x": 640,
     "y": 240,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 92,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 254
   },
   {
     "x": 640,
     "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 96,
+    "type": 2,
+    "fCost": 354,
+    "gCost": 258
   },
   {
     "x": 640,
     "y": 400,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
@@ -819,7 +819,7 @@
     "x": 640,
     "y": 480,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
@@ -827,7 +827,7 @@
     "x": 640,
     "y": 560,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
@@ -835,7 +835,7 @@
     "x": 640,
     "y": 640,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
@@ -843,7 +843,7 @@
     "x": 640,
     "y": 720,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
@@ -851,17 +851,17 @@
     "x": 640,
     "y": 800,
     "hCost": 0,
-    "type": 0,
+    "type": 3,
     "fCost": 0,
     "gCost": 0
   },
   {
     "x": 640,
     "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 142,
+    "type": 2,
+    "fCost": 322,
+    "gCost": 180
   },
   {
     "x": 720,
@@ -890,74 +890,74 @@
   {
     "x": 720,
     "y": 240,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 102,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 244
   },
   {
     "x": 720,
     "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 106,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 240
   },
   {
     "x": 720,
     "y": 400,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 110,
+    "type": 2,
+    "fCost": 354,
+    "gCost": 244
   },
   {
     "x": 720,
     "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 114,
+    "type": 2,
+    "fCost": 340,
+    "gCost": 226
   },
   {
     "x": 720,
     "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 118,
+    "type": 2,
+    "fCost": 334,
+    "gCost": 216
   },
   {
     "x": 720,
     "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 122,
+    "type": 2,
+    "fCost": 328,
+    "gCost": 206
   },
   {
     "x": 720,
     "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 126,
+    "type": 2,
+    "fCost": 322,
+    "gCost": 196
   },
   {
     "x": 720,
     "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 136,
+    "type": 2,
+    "fCost": 322,
+    "gCost": 186
   },
   {
     "x": 720,
     "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 146,
+    "type": 6,
+    "fCost": 322,
+    "gCost": 176
   },
   {
     "x": 800,
@@ -994,66 +994,66 @@
   {
     "x": 800,
     "y": 320,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 116,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 230
   },
   {
     "x": 800,
     "y": 400,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 120,
+    "type": 6,
+    "fCost": 346,
+    "gCost": 226
   },
   {
     "x": 800,
     "y": 480,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 124,
+    "type": 6,
+    "fCost": 354,
+    "gCost": 230
   },
   {
     "x": 800,
     "y": 560,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 128,
+    "type": 6,
+    "fCost": 348,
+    "gCost": 220
   },
   {
     "x": 800,
     "y": 640,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 132,
+    "type": 6,
+    "fCost": 342,
+    "gCost": 210
   },
   {
     "x": 800,
     "y": 720,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 136,
+    "type": 6,
+    "fCost": 336,
+    "gCost": 200
   },
   {
     "x": 800,
     "y": 800,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 140,
+    "type": 6,
+    "fCost": 330,
+    "gCost": 190
   },
   {
     "x": 800,
     "y": 880,
-    "hCost": 0,
-    "type": 0,
-    "fCost": 0,
-    "gCost": 0
+    "hCost": 150,
+    "type": 6,
+    "fCost": 330,
+    "gCost": 180
   },
   {
     "x": 880,

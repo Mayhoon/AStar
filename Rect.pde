@@ -7,6 +7,7 @@ class Rect {
   private int hCost = 0;//top right
   private int fCost = 0; //middle
   private int type = 0;
+  private boolean draw = false;
   
   Rect() {
     
@@ -46,7 +47,7 @@ class Rect {
     rect(x, y , RECT_SIZE, RECT_SIZE);
     
     //not a blocked/start/end node
-    if(type != 3 && type != 1 && type != 4) {
+    if(draw == true && type != 3 && type != 1 && type != 4) {
       fill(#2579CB);
       textSize(RECT_SIZE/4);
       text(gCost, x + RECT_SIZE/8, y + RECT_SIZE/4); //top left
@@ -69,7 +70,6 @@ class Rect {
   }
   
   public void calcCosts(Rect startNode, Rect endNode) {       
-    //calc();
     calcgCost(startNode);
     calchCost(endNode);
     
@@ -105,7 +105,7 @@ class Rect {
        yCost = diffY * 14;
     }
    
-    int sum = xCost + yCost;
+     int sum = xCost + yCost; 
      hCost= sum;
      fCost= sum + gCost;
   }

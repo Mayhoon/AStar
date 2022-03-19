@@ -1,6 +1,6 @@
 boolean run = false;
 boolean edit = false;
-boolean init = false;
+boolean init = true;
 int row = 12;
 int col = 12;
 String filename = "field.json";
@@ -30,9 +30,15 @@ void draw () {
       }  
    }   
     
-   if(run) {               
-     getStartAndEndNode();               
-     calcNeighbours(startNode);
+   if(run) {          
+       if(init) {
+         init = false;
+         getStartAndEndNode();           
+         calcCostsForNeighbours(startNode);
+       }else {
+         currentNode = findLowestGCostNode();
+         calcCostsForNeighbours(currentNode);
+       }         
    }
 }
    
@@ -52,11 +58,17 @@ Rect findLowestGCostNode() {
              lowestGCostNode = currentNode;
              firstNodeFound = true;
            }
-           if(currentNode.getFCost() <= lowestGCostNode.getFCost()) {             
+           if(currentNode.getFCost() < lowestGCostNode.getFCost()) {             
+             //if(currentNode.getHCost() < lowestGCostNode.getHCost()) {               
+                //println("F:" + lowestGCostNode.getFCost());
+                lowestGCostNode = currentNode;            
+             //}        
+           }
+           if(currentNode.getFCost() == lowestGCostNode.getFCost()) {             
              if(currentNode.getHCost() < lowestGCostNode.getHCost()) {               
                 //println("F:" + lowestGCostNode.getFCost());
                 lowestGCostNode = currentNode;            
-             }                            
+             }        
            }
          }     
        }
@@ -66,7 +78,7 @@ Rect findLowestGCostNode() {
   return lowestGCostNode;
 }
 
-void calcNeighbours(Rect node) {
+void calcCostsForNeighbours(Rect node) {
   int x = node.getArrayPosX();
   int y = node.getArrayPosY();       
   
@@ -81,40 +93,43 @@ void calcNeighbours(Rect node) {
  
  //Top row
   if(leftCol >= 0 && topRow >= 0) {
-    calc(leftCol, topRow); 
+    calcCosts(leftCol, topRow); 
   }
   if(middleCol >= 0 && topRow >= 0) { 
-     calc(middleCol, topRow); 
+     calcCosts(middleCol, topRow); 
   }
   if(rightCol <= row-1 && topRow >= 0) { 
-     calc(rightCol, topRow);
+     calcCosts(rightCol, topRow);
   }
   
   //Middle row
   if(leftCol >= 0) {
-    calc(leftCol,middleRow);
+    calcCosts(leftCol,middleRow);
   }
   if(rightCol <= row-1) { 
-     calc(rightCol,middleRow);
+     calcCosts(rightCol,middleRow);
   }
   
   //Bottom row
   if(leftCol >= 0 && bottomRow < row) {
-    calc(leftCol,bottomRow);
+    calcCosts(leftCol,bottomRow);
   }
   if(middleCol >= 0 && bottomRow < row) { 
-     calc(middleCol,bottomRow);;  
+     calcCosts(middleCol,bottomRow);;  
   }
   if(rightCol <= row-1 && bottomRow < row) { 
-     calc(rightCol,bottomRow);
+     calcCosts(rightCol,bottomRow);
   }
 }
 
-void calc (int col, int row) {
+void calcCosts (int col, int row) {
   Rect r = nodes[col][row];
-  if (r.getType() != 3 && r.getType() != 4) {
-    r.calcCosts(startNode, endNode);
+  if (r.getType() != 3 && r.getType() != 4 && r.getType() != 6 && r.getType() != 2 && r.getType() != 1) {
+    r.calcCosts(currentNode, endNode);
     nodes[col][row] = r;  
+  }else if (r.getType() == 4) {
+    println("END NODE FOUND");
+    run = false;
   }
 }
 
@@ -134,6 +149,7 @@ void getStartAndEndNode() {
          Rect currentNode = nodes[c][r];
          if(currentNode.getType() == 1) {
              startNode = currentNode;
+             this.currentNode = currentNode; 
          }
          if(currentNode.getType() == 4) {
            endNode = currentNode;
@@ -188,13 +204,13 @@ void keyPressed() {
   switch (key) {
     case 'e': edit(); break;
     case 's': saveToJson(); break;
-    case 'v': stepDebug(); break;
     case ' ': run(); break;
+    case 'v': stepDebug(); break;
     default: break;
   }
 }  
 
 void stepDebug() {
-  println("Finding the lowest gcost");
   currentNode = findLowestGCostNode();
+  calcCostsForNeighbours(currentNode);
 }
